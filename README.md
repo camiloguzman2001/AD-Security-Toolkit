@@ -16,7 +16,7 @@ A comprehensive Active Directory security auditing and threat detection toolkit.
 ## 🚀 Quick Start
 ```powershell
 # Clone the repository
-git clone https://github.com/CamiloSteez/AD-Security-Toolkit.git
+git clone https://github.com/camiloguzman2001/AD-Security-Toolkit.git
 
 # Run the AD audit (requires domain-joined machine)
 .\scripts\Invoke-ADSecurityAudit.ps1
